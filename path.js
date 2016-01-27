@@ -1,0 +1,5 @@
+var Path = {
+	create: function() {
+		
+	}	
+};

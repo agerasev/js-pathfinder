@@ -1,0 +1,48 @@
+html {
+	margin: 0;
+	padding: 0;
+	font-family: "droid sans", "dejavu sans", sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+}
+
+input {
+	margin: 2px;
+	padding: 2px;
+	border: 1px solid #888888;
+}
+
+.viewport {
+	top: 0;
+	left: 0;
+	position: fixed;
+	z-index: -1;
+	cursor: default;
+}
+
+button {
+	margin: 2px;
+	padding: 4px;
+	font-size: 16px;
+	color: #000000;
+	background-color: #FF7700;
+	border: 0;
+}
+
+button:active {
+	background-color: #FF4400;
+}
+
+.panel {
+	margin: 2px;
+	padding: 4px;
+	background-color: rgba(255,255,255,0.5);
+}
